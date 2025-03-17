@@ -1,3 +1,1 @@
-# REDI_ML_PROJECT
-"# REDI_ML_PROJECT" 
-"# REDI_ML_PROJECT" 
+# REDI_ML_PROJECT: Project-based North American pumpkin prices 
