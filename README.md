@@ -12,7 +12,8 @@ ReDi School of Digital Integration (ReDI) is a non-profit techology school that 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Project One: Investigating trends and Predicting North Amercian (NA) pumpkins prices
+## Project One: Investigating Trends and Predicting North Amercian (NA) Pumpkins Prices
+![melanie-hughes-pumpkins-unsplash](https://github.com/user-attachments/assets/28e6cdcf-cc2a-45e3-89ff-4939cfcac3ce)
 
 
 ## Project Two: Analysis of Immobilienscout 24
